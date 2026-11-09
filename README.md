@@ -100,5 +100,8 @@ flutter analyze
 [GitHub Repository](https://github.com/92230122-svg/perfume-formula-lab)
 
 ---
+## Application Preview:
+![Perfume Formula Lab - Screen 1](screenshots/app-home.png)
 
+![Perfume Formula Lab - Screen 2](screenshots/app-home2.png)
 *Perfume Formula Lab — Calculate your formula with precision.*
